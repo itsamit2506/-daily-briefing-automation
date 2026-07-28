@@ -52,9 +52,3 @@ MIT
 ```
 
 ---
-
-
-
-5. Click **"Commit changes"**
-
-Would you like me to show you the content for `briefing_agent.py` next?
