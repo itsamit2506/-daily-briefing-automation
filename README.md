@@ -1,7 +1,5 @@
 # 📄 README.md Content
 
-Here's the complete content for your `README.md` file. Copy this and paste it into your GitHub repository:
-
 ---
 
 ```markdown
@@ -55,12 +53,8 @@ MIT
 
 ---
 
-## 📋 Upload to GitHub
 
-1. Go to: https://github.com/itsamit2506/-daily-briefing-automation
-2. Click **"Add file"** → **"Create new file"**
-3. Enter filename: `README.md`
-4. Paste the content above
+
 5. Click **"Commit changes"**
 
 Would you like me to show you the content for `briefing_agent.py` next?
